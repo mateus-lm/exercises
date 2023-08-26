@@ -15,9 +15,11 @@ def main():
     
     # palavra = str(input("Entre com a palavra: "))
     # print(palindromo(palavra))
-    n = int(input("Entre com num fib: "))
-    print(fibonacci(n))
-
+    
+    # n = int(input("Entre com num fib: "))
+    # print(fibonacci(n))
+    #print(str.split.__doc__)
+    print(dir(str))
 if __name__ == '__main__':
     main()
 
